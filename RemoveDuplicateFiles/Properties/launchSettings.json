@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoveDuplicateFiles": {
+      "commandName": "Project",
+      "commandLineArgs": ". obj"
+    }
+  }
+}
